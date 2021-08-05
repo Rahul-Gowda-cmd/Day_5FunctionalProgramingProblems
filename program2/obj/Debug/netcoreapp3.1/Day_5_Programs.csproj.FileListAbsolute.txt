@@ -1,0 +1,12 @@
+C:\Users\HP\csharp\program2\program2\bin\Debug\netcoreapp3.1\Day_5_Programs.exe
+C:\Users\HP\csharp\program2\program2\bin\Debug\netcoreapp3.1\Day_5_Programs.deps.json
+C:\Users\HP\csharp\program2\program2\bin\Debug\netcoreapp3.1\Day_5_Programs.runtimeconfig.json
+C:\Users\HP\csharp\program2\program2\bin\Debug\netcoreapp3.1\Day_5_Programs.runtimeconfig.dev.json
+C:\Users\HP\csharp\program2\program2\bin\Debug\netcoreapp3.1\Day_5_Programs.dll
+C:\Users\HP\csharp\program2\program2\bin\Debug\netcoreapp3.1\Day_5_Programs.pdb
+C:\Users\HP\csharp\program2\program2\obj\Debug\netcoreapp3.1\Day_5_Programs.AssemblyInfoInputs.cache
+C:\Users\HP\csharp\program2\program2\obj\Debug\netcoreapp3.1\Day_5_Programs.AssemblyInfo.cs
+C:\Users\HP\csharp\program2\program2\obj\Debug\netcoreapp3.1\Day_5_Programs.csproj.CoreCompileInputs.cache
+C:\Users\HP\csharp\program2\program2\obj\Debug\netcoreapp3.1\Day_5_Programs.dll
+C:\Users\HP\csharp\program2\program2\obj\Debug\netcoreapp3.1\Day_5_Programs.pdb
+C:\Users\HP\csharp\program2\program2\obj\Debug\netcoreapp3.1\Day_5_Programs.genruntimeconfig.cache
